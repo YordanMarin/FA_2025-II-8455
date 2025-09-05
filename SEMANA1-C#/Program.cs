@@ -10,7 +10,7 @@ namespace SEMANA1_C_
     {
         static void Main(string[] args)
         {
-            ejer2();
+            ejer3();
             Console.ReadKey();
         }
 
@@ -30,6 +30,22 @@ namespace SEMANA1_C_
         static void ejer2()
         {
             Console.WriteLine("\"Yordan\"");
+        }
+
+        static void ejer3()
+        {
+            Console.Write("Ingrese num 1: ");
+            int x = int.Parse(Console.ReadLine());
+
+            Console.Write("Ingrese num 2: ");
+            int y = Convert.ToInt32(Console.ReadLine());
+
+            double divi = x / y;
+
+            Console.WriteLine("\nSuma: "+(x+y));
+            Console.WriteLine("Resta: " + (x - y));
+            Console.WriteLine("Multiplicación: " + (x * y));
+            Console.WriteLine("División: " + divi);
         }
 
     }
