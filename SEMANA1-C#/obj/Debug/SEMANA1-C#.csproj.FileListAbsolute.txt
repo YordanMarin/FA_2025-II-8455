@@ -6,3 +6,11 @@ C:\Users\UPN\Desktop\FA_8455\FA_8455\SEMANA1-C#\obj\Debug\SEMANA1-C#.csproj.Core
 C:\Users\UPN\Desktop\FA_8455\FA_8455\SEMANA1-C#\obj\Debug\SEMANA1-C#.exe
 C:\Users\UPN\Desktop\FA_8455\FA_8455\SEMANA1-C#\obj\Debug\SEMANA1-C#.pdb
 C:\Users\UPN\Desktop\FA_8455\FA_8455\SEMANA1-C#\obj\Debug\SEMANA1-C#.exe.config
+C:\Users\UPN\Desktop\FA\FA_2025-II-8455\SEMANA1-C#\bin\Debug\SEMANA1-C#.exe.config
+C:\Users\UPN\Desktop\FA\FA_2025-II-8455\SEMANA1-C#\bin\Debug\SEMANA1-C#.exe
+C:\Users\UPN\Desktop\FA\FA_2025-II-8455\SEMANA1-C#\bin\Debug\SEMANA1-C#.pdb
+C:\Users\UPN\Desktop\FA\FA_2025-II-8455\SEMANA1-C#\obj\Debug\SEMANA1-C#.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\FA\FA_2025-II-8455\SEMANA1-C#\obj\Debug\SEMANA1-C#.exe.config
+C:\Users\UPN\Desktop\FA\FA_2025-II-8455\SEMANA1-C#\obj\Debug\SEMANA1-C#.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\FA\FA_2025-II-8455\SEMANA1-C#\obj\Debug\SEMANA1-C#.exe
+C:\Users\UPN\Desktop\FA\FA_2025-II-8455\SEMANA1-C#\obj\Debug\SEMANA1-C#.pdb
