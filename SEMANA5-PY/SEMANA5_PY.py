@@ -22,5 +22,35 @@ def ejer2():
     else:
         print("ESCALENO")
 
-ejer1()
+def ejer3():
+    n = int(input("Ingrese el valor de n: "))
+    suma =0
+    print()
+    for i in range(1,n+1):
+        print(i)
+
+        if(i % 2 == 0):
+            suma += i
+    print("\nSuma de pares: ",suma)
+
+def ejer4():
+    cant = int(input("Ingrese la cantidad de números:"))
+    p = im = c = 0
+    print()
+    for i in range(1,cant+1):
+        num = int(input(f"Ingrese número {i}: "))
+
+        if num == 0:
+            c+=1
+        elif num %2 ==0:
+            p+=1
+        else: 
+            im+=1
+
+    print("\nCantidad de pares: ",p)
+    print("Cantidad de impares: ",im)
+    print("cantidad de ceros: ", c)
+
+
+ejer4()
 
