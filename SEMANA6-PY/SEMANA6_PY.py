@@ -46,4 +46,26 @@ def ejer3():
         print()
         i+=1
 
-ejer3()
+def ejer4():
+    g = input("Genere una contraseña: ")
+
+    print("\n------------------------------------")
+    print("        VÁLIDE SU CONTRASEÑA        ")
+    print("                                    ")
+    print("    1. Ud. tiene 3 intentos         ")
+    print("------------------------------------")
+
+    intentos = 3
+
+    while intentos > 0:
+        c = input("\nIngrese su contraseña: ")
+
+        if g == c:
+            print("\nAcceso concebido! Bienvenido.")
+            break
+        else:
+            intentos-=1
+            print(f"Contraseña incorrecta. Tienes {intentos} intentos")
+    else: print("\nCerrando programa. Ud no puede ingresar al sistema!")
+
+ejer4()
