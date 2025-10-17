@@ -1,0 +1,6 @@
+C:\Users\UPN\Desktop\Nueva carpeta\FA_2025-II-8455\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\UPN\Desktop\Nueva carpeta\FA_2025-II-8455\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\UPN\Desktop\Nueva carpeta\FA_2025-II-8455\Biblioteca\obj\Debug\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\Nueva carpeta\FA_2025-II-8455\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\Nueva carpeta\FA_2025-II-8455\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\UPN\Desktop\Nueva carpeta\FA_2025-II-8455\Biblioteca\obj\Debug\Biblioteca.pdb
