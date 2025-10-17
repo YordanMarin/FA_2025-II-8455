@@ -1,0 +1,11 @@
+C:\Users\UPN\Desktop\Nueva carpeta\FA_2025-II-8455\SEMANA9_C#\bin\Debug\SEMANA9_C#.exe.config
+C:\Users\UPN\Desktop\Nueva carpeta\FA_2025-II-8455\SEMANA9_C#\bin\Debug\SEMANA9_C#.exe
+C:\Users\UPN\Desktop\Nueva carpeta\FA_2025-II-8455\SEMANA9_C#\bin\Debug\SEMANA9_C#.pdb
+C:\Users\UPN\Desktop\Nueva carpeta\FA_2025-II-8455\SEMANA9_C#\bin\Debug\Biblioteca1.dll
+C:\Users\UPN\Desktop\Nueva carpeta\FA_2025-II-8455\SEMANA9_C#\bin\Debug\Biblioteca1.pdb
+C:\Users\UPN\Desktop\Nueva carpeta\FA_2025-II-8455\SEMANA9_C#\obj\Debug\SEMANA9_C#.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\Nueva carpeta\FA_2025-II-8455\SEMANA9_C#\obj\Debug\SEMANA9_C#.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\Nueva carpeta\FA_2025-II-8455\SEMANA9_C#\obj\Debug\SEMANA9_C#.csproj.Up2Date
+C:\Users\UPN\Desktop\Nueva carpeta\FA_2025-II-8455\SEMANA9_C#\obj\Debug\SEMANA9_C#.exe
+C:\Users\UPN\Desktop\Nueva carpeta\FA_2025-II-8455\SEMANA9_C#\obj\Debug\SEMANA9_C#.pdb
+C:\Users\UPN\Desktop\Nueva carpeta\FA_2025-II-8455\SEMANA9_C#\obj\Debug\SEMANA9_C#.exe.config
