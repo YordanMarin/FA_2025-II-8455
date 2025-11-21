@@ -1,0 +1,8 @@
+C:\Users\UPN\Desktop\Nueva carpeta\FA_2025-II-8455\SEMANA14\bin\Debug\SEMANA14.exe.config
+C:\Users\UPN\Desktop\Nueva carpeta\FA_2025-II-8455\SEMANA14\bin\Debug\SEMANA14.exe
+C:\Users\UPN\Desktop\Nueva carpeta\FA_2025-II-8455\SEMANA14\bin\Debug\SEMANA14.pdb
+C:\Users\UPN\Desktop\Nueva carpeta\FA_2025-II-8455\SEMANA14\obj\Debug\SEMANA14.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\Nueva carpeta\FA_2025-II-8455\SEMANA14\obj\Debug\SEMANA14.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\Nueva carpeta\FA_2025-II-8455\SEMANA14\obj\Debug\SEMANA14.exe
+C:\Users\UPN\Desktop\Nueva carpeta\FA_2025-II-8455\SEMANA14\obj\Debug\SEMANA14.pdb
+C:\Users\UPN\Desktop\Nueva carpeta\FA_2025-II-8455\SEMANA14\obj\Debug\SEMANA14.exe.config
